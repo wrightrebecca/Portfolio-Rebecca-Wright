@@ -99,3 +99,33 @@ p {
 .mb-3 {
   text-align: left;
 }
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+  .primary-link {
+    width: 90px;
+    text-align: center;
+    padding: 10px;
+  }
+  .about-link {
+    width: 90px;
+    text-align: center;
+  }
+  p {
+    font-size: 16px;
+  }
+  .email-link {
+    font-size: 16px;
+  }
+  .email {
+    font-size: 16px;
+  }
+}
