@@ -128,4 +128,8 @@ p {
   .email {
     font-size: 16px;
   }
+  .home-links {
+    display: block;
+    text-align: center;
+  }
 }
